@@ -1,0 +1,48 @@
+{
+  "questions": [
+    {
+      "question": "who is the president of India?",
+      "answer": "Narendra Modi"
+    },
+    {
+      "question": "what is your project name?",
+      "answer": "Chitchat"
+    },
+    {
+      "question": "where do you live?",
+      "answer": "In your device:)"
+    },
+    {
+      "question": "what you like to do?",
+      "answer": "I like to do chatting with you:)"
+    },
+    {
+      "question": "what is the weather today?",
+      "answer": "Around 42 degree celcius.."
+    },
+    {
+      "question": "thank you",
+      "answer": "Your most welcome:)"
+    },
+    {
+      "question": "how are you?",
+      "answer": "I am fine. Thanks for asking..."
+    },
+    {
+      "question": "what you eat?",
+      "answer": "I don't eat anything as I'm a Bot"
+    },
+    {
+      "question": "hi",
+      "answer": "Hello:)"
+    },
+    {
+      "question": "give me an advice",
+      "answer": "Plan a good career with Machine Learning!"
+    },
+    {
+      "question": "bye",
+      "answer": "Ok GoodBye"
+    }
+  ]
+}
