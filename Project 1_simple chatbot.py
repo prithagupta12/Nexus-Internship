@@ -3,7 +3,7 @@ import random
 import json
 from difflib import get_close_matches
 
-ADVICE = "Plan a good career with Machine Learning!"
+ADVICE = "Plan a good career with Machine Learning!" 
 
 def load_intents(file_path: str)-> dict:
     with open(file_path, 'r') as file:
